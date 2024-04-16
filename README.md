@@ -1,2 +1,0 @@
-# tdp
-just for understanding 
